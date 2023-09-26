@@ -46,13 +46,13 @@ body{
 ul{
     color: white;
     padding: 18px;
-    background-color: rgb(45, 8, 234);
+   
 }
 .navigasi{
     display: flex;
-    align-items: right;
-    justify-content: right;
-    margin: 10px;
+    align-items: center;
+    margin: 5px;
+    
 }
 .navigasi > li {
     list-style-type:none ;
