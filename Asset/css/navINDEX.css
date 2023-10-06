@@ -7,6 +7,20 @@ body{
     font-family: 'Oswald', sans-serif;
     background-color: #e5e6e8;
     overflow-x: hidden;
+    /* background-image: url('../Picture/logo.jpg');
+    background-repeat: no-repeat; /* Menghentikan pengulangan gambar */
+    /* background-position: center; Posisi gambar di tengah elemen */
+}
+
+
+.Tugas {
+   display: flex;
+   justify-content: center;
+   padding: 50px;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 nav {
